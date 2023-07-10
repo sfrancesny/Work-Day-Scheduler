@@ -2,7 +2,7 @@
 <!-- On-the-job ticket or feature request Challenges -->
 
 ## Description 
-
+This is a simple calendar application that allows a user to save events for each hour of a typical working day (9am–5pm). This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 ## User Story
 
@@ -31,8 +31,7 @@ THEN the saved events persist
 ```
 
 ## Usage 
-
-
+ This application establishes a predictable routine that reduces stress and improves efficiency for a typical work day. It makes decision-making easier, eliminates uncertainties, and builds healthy habits to manage your time and energy better. This falls under productivity planning and goal management.
 
  ## Screenshots
 <img src="Work-Day-Scheduler-SS1.png"/>
