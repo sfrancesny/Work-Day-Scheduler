@@ -35,12 +35,8 @@ THEN the saved events persist
 
 
  ## Screenshots
-<img src=""/>
-<img src=""/> 
-<img src=""/> 
-<img src=""/>
-<img src=""/> 
-
+<img src="Work-Day-Scheduler-SS1"/>
+<img src="Work-Day-Scheduler-SS2"/> 
 
 Link: https://sfrancesny.github.io/Work-Day-Scheduler/
 
