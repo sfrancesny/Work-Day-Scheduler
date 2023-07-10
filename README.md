@@ -42,7 +42,7 @@ THEN the saved events persist
 <img src=""/> 
 
 
-Link: 
+Link: https://sfrancesny.github.io/Work-Day-Scheduler/
 
 ## Resources
 https://chat.openai.com/
